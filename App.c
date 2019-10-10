@@ -2,31 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*
-
-Crie um programa em C que permita ao cliente
-escolher seu Hamburger, batata (pequena,
-média ou grande) e refrigerante ou suco. A
-batata e a bebida são opcionais.
-
-
-Ele deverá, também, ter a opção de montar um
-combo com Hamburger, batata grande e
-refrigerante.
-
-Caso ele queira trocar o refrigerante por suco
-(no combo), deverá ser acrescido mais R$ 1,00
-na conta.
-Ao final, o programa deverá informar o valor
-total a pagar
-
-hamburger
-opcionais
-batata
-refrigerante ou suco 
-
-
-*/
 
 int main(){
     float hamburger, batata , bebida, combo,valor_final;
