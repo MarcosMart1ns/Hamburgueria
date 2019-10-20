@@ -12,7 +12,7 @@ na conta.
 Ao final, o programa informa o resumo do pedido e o valor
 total a pagar.
 
-Para abrir a aplicação:
+Para executar a aplicação:
 
 1- Executar o arquivo App.exe
 2- Compilar o arquivo App.c, que contém o codigo fonte usando o GCC com o comando gcc App.c na pasta onde está o arquivo.
